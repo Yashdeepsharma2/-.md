@@ -1,39 +1,39 @@
 <p align="center">
-  <a href="https://github.com/TheBlackxyz/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=TheBlackXYZBotz &font=Fira%20SemiBold&center=true&width=480&height=45&color=32CD32&vCenter=true&pause=1000&size=40" /></a>
+  <a href="https://github.com/Yashdeepsharma2/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Yashdeepsharma2Botz&font=Fira%20SemiBold&center=true&width=480&height=45&color=32CD32&vCenter=true&pause=1000&size=40" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/TheBlackxyz/readme-typing-svg">
+  <a href="https://github.com/Yashdeepsharma2/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20app%20and%20BOT%20developer;Experienced%20UI%2FUX%20Designer;6%2B%60month%20of%20coding%20experience;Always%20learning%20new%20things;A.I%20DEVELOPER%20&font=Fira%20Code&center=true&width=500&height=45&color=9400D3&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="center">
-𝗬𝗼𝘂𝗿 𝗖𝗼𝗱𝗶𝗻𝗴 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝗿 𝗧𝗵𝗲𝗕𝗹𝗮𝗰𝗸𝗫𝗬𝗭𝗕𝗼𝘁𝘇...😒
+𝗬𝗼𝘂𝗿 𝗖𝗼𝗱𝗶𝗻𝗴 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝗿 𝗬𝗮𝘀𝗵𝗱𝗲𝗲𝗽𝘀𝗵𝗮𝗿𝗺𝗮𝟮...😒
 </p>
 <h3 align="center">👀 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗩𝗶𝗲𝘄 𝗖𝗼𝘂𝗻𝘁𝗲𝗿 🇮🇳</h3>
 <p align="center">
-<img src="https://profile-counter.glitch.me/{TheBlackxyz}/count.svg" <p align="center"> </p>
+<img src="https://profile-counter.glitch.me/{Yashdeepsharma2}/count.svg" <p align="center"> </p>
 <h1 align="center">
-<a href="https://www.buymeacoffee.com/TheBlackXYZBotz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/Yashdeepsharma2Botz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <h3 align="center">🙏 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 ❤️</h3>
 </p>
 <p align="center">
-<a href="https://www.instagram.com/the_black_xyz?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.dog/TheBlackXYZBotz"><img alt="Telegram" src="https://img.shields.io/badge/TheBlackXYZBotz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
-<a href="https://youtube.com/@TheBlackXYZ?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.instagram.com/the_black_xyz?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.dog/Yashdeepsharma2Botz"><img alt="Telegram" src="https://img.shields.io/badge/Yashdeepsharma2Botz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
+<a href="https://youtube.com/@Yashdeepsharma2?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••🇮🇳</h3>
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=TheBlackxyz&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=Yashdeepsharma2&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TheBlackxyz&hide=prs&count_public=true&show_icons=true&theme=algolia" align="center"> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Yashdeepsharma2&hide=prs&count_public=true&show_icons=true&theme=algolia" align="center"> </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TheBlackxyz&theme=radical&hide_border" align="center"> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Yashdeepsharma2&theme=radical&hide_border" align="center"> </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBlackxyz&layout=compact&theme=merko" align="center"> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashdeepsharma2&layout=compact&theme=merko" align="center"> </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
   
@@ -49,7 +49,7 @@
 
 <h3 align="center">🏆 𝗚𝗜𝗧𝗛𝗨𝗕 ••TROPHIES🏅</h3>
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=TheBlackxyz&theme=radical&no-frame=false&no-bg=false&margin-w=4" </p>
+<img src="https://github-profile-trophy.vercel.app/?username=Yashdeepsharma2&theme=radical&no-frame=false&no-bg=false&margin-w=4" </p>
 
 <h3 align="center">🆃︎🅷︎🅰︎🅽︎🅺︎ 🆈︎🅾︎🆄︎..❗ 🆅︎🅸︎🆂︎🅸︎🆃︎🅸︎🅽︎🅶︎ 🅼︎🆈︎ 🅶︎🅸︎🆃︎🅷︎🆄︎🅱︎ 🅿︎🆁︎🅾︎🅵︎🅸︎🅻︎🅴︎</h3>
 
