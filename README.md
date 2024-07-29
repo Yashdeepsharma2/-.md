@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Yashdeepsharma2/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Yashdeepsharma2Botz&font=Fira%20SemiBold&center=true&width=480&height=45&color=32CD32&vCenter=true&pause=1000&size=40" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Vidder%20Tech&font=Fira%20SemiBold&center=true&width=480&height=45&color=32CD32&vCenter=true&pause=1000&size=40" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/Yashdeepsharma2/readme-typing-svg">
@@ -13,13 +13,13 @@
 <p align="center">
 <img src="https://profile-counter.glitch.me/{Yashdeepsharma2}/count.svg" <p align="center"> </p>
 <h1 align="center">
-<a href="https://www.buymeacoffee.com/yashdeepsharma2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/yashdeepsharma2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width=217px !important;" ></a>
 
 <h3 align="center">🙏 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 ❤️</h3>
 </p>
 <p align="center">
 <a href="https://t.me/videoderXT"><img alt="Telegram" src="https://img.shields.io/badge/videoderXT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
-<a href="https://youtube.com/@viddertech"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://youtube.com/@viddertech"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
