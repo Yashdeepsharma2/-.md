@@ -1,65 +1,79 @@
 <p align="center">
   <a href="https://youtube.com/@viddertech">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Vidder%20Tech&font=Fira%20SemiBold&center=true&width=480&height=45&color=32CD32&vCenter=true&pause=1000&size=40" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Vidder%20Tech&font=Fira%20SemiBold&center=true&width=480&height=45&color=32CD32&vCenter=true&pause=1000&size=40" /></a>
 </p>
 
 <p align="center">
   <a href="https://t.me/VIDDER_TECH">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20app%20and%20BOT%20developer;Experienced%20UI%2FUX%20Designer;6%2B%60months%20of%20coding%20experience;Always%20learning%20new%20things;A.I%20DEVELOPER&font=Fira%20Code&center=true&width=500&height=45&color=9400D3&vCenter=true&pause=1000&size=22" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20app%20and%20BOT%20developer;Experienced%20UI%2FUX%20Designer;6%2B%60month%20of%20coding%20experience;Always%20learning%20new%20things;A.I%20DEVELOPER%20&font=Fira%20Code&center=true&width=500&height=45&color=9400D3&vCenter=true&pause=1000&size=22" /></a>
   <a href="https://t.me/videoderXT">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Join%20our%20Telegram%20community;For%20updates%20and%20support;Engage%20with%20other%20developers;Get%20latest%20tech%20news%20and%20tips&font=Fira%20Code&center=true&width=500&height=45&color=1E90FF&vCenter=true&pause=1000&size=22" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Join%20our%20Telegram%20community;For%20updates%20and%20support;Engage%20with%20other%20developers;Get%20latest%20tech%20news%20and%20tips&font=Fira%20Code&center=true&width=500&height=45&color=1E90FF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<h1 align="center">Hi there, I'm Yashdeep Sharma! 👋</h1>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{Yashdeepsharma2}/count.svg" alt="Profile Views" />
-</p>
+<h1 align="center">👨‍💻 Your Coding Developer Yashdeep Sharma</h1>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/yashdeepsharma2" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
   </a>
 </p>
 
+<h3 align="center">🙏 Community ❤️</h3>
+
 <p align="center">
-  <a href="https://t.me/VIDDER_TECH">
-    <img alt="Telegram" src="https://img.shields.io/badge/VIDDER_TECH-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@viddertech">
-    <img alt="YouTube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://t.me/videoderXT">
-    <img alt="Telegram" src="https://img.shields.io/badge/videoderXT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
+  <a href="https://t.me/VIDDER_TECH"><img alt="Telegram" src="https://img.shields.io/badge/VIDDER_TECH-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://youtube.com/@viddertech"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://t.me/videoderXT"><img alt="Telegram" src="https://img.shields.io/badge/videoderXT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-<h3 align="center">👨‍💻 My GitHub Stats</h3>
+---
+
+<h3 align="center">💜 GitHub ••• 🇮🇳</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashdeepsharma2&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-stats-alpha.vercel.app/api/?username=Yashdeepsharma2&cc=000&tc=00ff00&ic=fff000&bc=fff" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yashdeepsharma2&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashdeepsharma2&hide=prs&count_public=true&show_icons=true&theme=algolia" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashdeepsharma2&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yashdeepsharma2&theme=radical&hide_border" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashdeepsharma2&theme=radical" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashdeepsharma2&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashdeepsharma2&layout=compact&theme=merko" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-frequency?username=Yashdeepsharma2&theme=radical" alt="Commit Frequency" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/issues-prs?username=Yashdeepsharma2&theme=radical" alt="Issues & PRs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashdeepsharma2&theme=default" />
 </p>
 <p align="center">
-  <img src="https://github-readme-gists.vercel.app/api?username=Yashdeepsharma2" alt="GitHub Gists" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashdeepsharma2&theme=default" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yashdeepsharma2&theme=default" />
+</p>
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api?username=Yashdeepsharma2&count_private=true&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Yashdeepsharma2&theme=react-dark" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-repositories?username=Yashdeepsharma2&theme=default" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-frequency?username=Yashdeepsharma2&theme=default" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/issues-prs?username=Yashdeepsharma2&theme=default" />
+</p>
+<p align="center">
+  <img src="https://github-readme-gists.vercel.app/api?username=Yashdeepsharma2" />
 </p>
 
-<h3 align="center">🛠️ Technologies & Tools</h3>
+---
+
+<h3 align="center">🫣 A Developer Fascinating 😎😎 From India</h3>
+
 <p align="center">
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -80,9 +94,12 @@
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 </p>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+---
+
+<h3 align="center">🏆 GitHub •• Trophies 🏅</h3>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yashdeepsharma2&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yashdeepsharma2&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
-<h3 align="center">💬 Thank You for Visiting My GitHub Profile!</h3>
+<h3 align="center">🆃︎🅷︎🅰︎🅽︎🅺︎ 🆈︎🅾︎🆄︎..❗ 🆅︎🅸︎🆂︎🅸︎🆃︎🅸︎🅽︎🅶︎ 🅼︎🆈︎ 🅶︎🅸︎🆃︎🅷︎🆄︎🅱︎ 🅿︎🆁︎🅾︎🅵︎🅸︎🅻︎🅴︎</h3>
