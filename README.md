@@ -52,21 +52,6 @@
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Yashdeepsharma2&theme=react-dark" align="center">
 </p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yashdeepsharma2&theme=radical&no-frame=false&no-bg=false&margin-w=4" align="center">
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/top-repositories?username=Yashdeepsharma2&theme=default" align="center">
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-frequency?username=Yashdeepsharma2&theme=default" align="center">
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/issues-prs?username=Yashdeepsharma2&theme=default" align="center">
-</p>
-<p align="center">
-<img src="https://github-readme-gists.vercel.app/api?username=Yashdeepsharma2" align="center">
-</p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
   
