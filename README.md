@@ -36,17 +36,10 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashdeepsharma2&layout=compact&theme=merko" align="center"> </p>
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Yashdeepsharma2&theme=react-dark" alt="Contribution Graph" align="center"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashdeepsharma2&theme=default" align="center">
 </p>
-
-<h3 align="center">📌 𝗣𝗶𝗻𝗻𝗲𝗱 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀</h3>
 <p align="center">
-  <a href="https://github.com/Yashdeepsharma2/repository-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdeepsharma2&repo=repository-1&theme=algolia" alt="Repository 1" />
-  </a>
-  <a href="https://github.com/Yashdeepsharma2/repository-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdeepsharma2&repo=repository-2&theme=algolia" alt="Repository 2" />
-  </a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashdeepsharma2&theme=default" align="center">
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
