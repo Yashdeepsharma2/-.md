@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Yashdeepsharma2/readme-typing-svg">
+  <a href="https://youtube.com/@viddertech-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Vidder%20Tech&font=Fira%20SemiBold&center=true&width=480&height=45&color=32CD32&vCenter=true&pause=1000&size=40" /></a>
 </p>
 <p align="center">
