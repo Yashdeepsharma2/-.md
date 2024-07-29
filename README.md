@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Join%20our%20Telegram%20community;For%20updates%20and%20support;Engage%20with%20other%20developers;Get%20latest%20tech%20news%20and%20tips&font=Fira%20Code&center=true&width=500&height=45&color=1E90FF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="center">
-𝗬𝗼𝘂𝗿 𝗖𝗼𝗱𝗶𝗻𝗀 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝗿 𝗬𝗮𝘀𝗵𝗱𝗲𝗲𝗽𝘀𝗵𝗮𝗿𝗺𝗮𝟮...😒
+𝗬𝗼𝘂𝗿 𝗖𝗼𝗱𝗶𝗻𝗴 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝗿 𝗬𝗮𝘀𝗵𝗱𝗲𝗲𝗽𝘀𝗵𝗮𝗿𝗺𝗮𝟮...😒
 </p>
 <h3 align="center">👀 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗩𝗶𝗲𝘄 𝗖𝗼𝘂𝗻𝘁𝗲𝗿 🇮🇳</h3>
 <p align="center">
@@ -29,33 +29,48 @@
 
 <h3 align="center">💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••🇮🇳</h3>
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=Yashdeepsharma2&cc=000&tc=00ff00&ic=fff000&bc=000" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=Yashdeepsharma2&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yashdeepsharma2&hide=prs&count_public=true&show_icons=true&theme=dark" align="center"> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Yashdeepsharma2&hide=prs&count_public=true&show_icons=true&theme=algolia" align="center"> </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Yashdeepsharma2&theme=dark&hide_border" align="center"> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Yashdeepsharma2&theme=radical&hide_border" align="center"> </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashdeepsharma2&layout=compact&theme=dark" align="center"> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashdeepsharma2&layout=compact&theme=merko" align="center"> </p>
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashdeepsharma2&theme=dark" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashdeepsharma2&theme=default" align="center">
 </p>
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashdeepsharma2&theme=dark" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashdeepsharma2&theme=default" align="center">
 </p>
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yashdeepsharma2&theme=dark" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yashdeepsharma2&theme=default" align="center">
 </p>
 <p align="center">
-<img src="https://github-contribution-stats.vercel.app/api?username=Yashdeepsharma2&count_private=true&show_icons=true&theme=dark" align="center">
+<img src="https://github-contribution-stats.vercel.app/api?username=Yashdeepsharma2&count_private=true&show_icons=true&theme=radical" align="center">
 </p>
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Yashdeepsharma2&theme=dark" align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=Yashdeepsharma2&theme=react-dark" align="center">
+</p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Yashdeepsharma2&theme=radical&no-frame=false&no-bg=false&margin-w=4" align="center">
+</p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/top-repositories?username=Yashdeepsharma2&theme=default" align="center">
+</p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-frequency?username=Yashdeepsharma2&theme=default" align="center">
+</p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/issues-prs?username=Yashdeepsharma2&theme=default" align="center">
+</p>
+<p align="center">
+<img src="https://github-readme-gists.vercel.app/api?username=Yashdeepsharma2" align="center">
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
   
-<h3 align="center">🫣 𝗔 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗙𝗮𝘀𝗰𝗶𝗻𝗮𝘁𝗶𝗻𝗀 😎😎 From India</h3>
+<h3 align="center">🫣 𝗔 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗙𝗮𝘀𝗰𝗶𝗻𝗮𝘁𝗶𝗻𝗴 😎😎 From India</h3>
 
 </p>
 <p align="center">
