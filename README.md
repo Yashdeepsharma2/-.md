@@ -37,21 +37,57 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashdeepsharma2&layout=compact&theme=merko" align="center"> </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
-  
-<h3 align="center">🫣 𝗔 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗙𝗮𝘀𝗰𝗶𝗻𝗮𝘁𝗶𝗻𝗴 😎😎 From India</h3>
 
-</p>
+<h3 align="center">🛠️ 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦 & 𝗧𝗢𝗢𝗟𝗦</h3>
 <p align="center">
-  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![KOYEB](https://img.shields.io/badge/Koyeb-%23E34F26.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![KOYEB](https://img.shields.io/badge/Koyeb-%23E34F26.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 </p>
-  
----------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="center">📂 𝗠𝗢𝗥𝗘 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦</h3>
+
+<h4 align="center">Projects</h4>
+<p align="center">
+  <a href="https://github.com/Yashdeepsharma2?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Repository-blue?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<h4 align="center">Achievements</h4>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashdeepsharma2">
+    <img src="https://img.shields.io/badge/Achievements-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<h4 align="center">Blog/Articles</h4>
+<p align="center">
+  <a href="https://medium.com/@yashdeepsharma2">
+    <img src="https://img.shields.io/badge/Blog-Medium-blue?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
+<h4 align="center">Contact</h4>
+<p align="center">
+  <a href="mailto:yashdeepsharma2@example.com">
+    <img src="https://img.shields.io/badge/Email-yashdeepsharma2@example.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<h4 align="center">Support</h4>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yashdeepsharma2">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width=217px !important;" />
+  </a>
+</p>
+
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">🏆 𝗚𝗜𝗧𝗛𝗨𝗕 ••TROPHIES🏅</h3>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Yashdeepsharma2&theme=radical&no-frame=false&no-bg=false&margin-w=4" </p>
 
-<h3 align="center">🆃︎🅷︎🅰︎🅽︎🅺︎ 🆈︎🅾︎🆄︎..❗ 🆅︎🅸︎🆂︎🅸︎🆃︎🅸︎🅽︎🅶︎ 🅼︎🆈︎ 🅶︎🅸︎🆃︎🅷︎🆄︎🅱︎ 🅿︎🆁︎🅾︎🅵︎🅸︎🅻︎🅴︎</h3>
+<h3 align="center">🆃︎🅷︎🅰︎🅽︎🅺︎ 🆈︎🅾︎🆄︎..❗ 🆅︎🅸︎🆂︎🅸︎🅃︎🅸︎🅝︎🅶︎ 🅼︎🆈︎ 🅶︎🅸︎🆃︎🅷︎🆄︎🅱︎ 🅿︎🆁︎🅾︎🅵︎🅸︎🅻︎🅴︎</h3>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
