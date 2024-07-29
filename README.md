@@ -5,6 +5,8 @@
 <p align="center">
   <a href="https://t.me/VIDDER_TECH">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20app%20and%20BOT%20developer;Experienced%20UI%2FUX%20Designer;6%2B%60month%20of%20coding%20experience;Always%20learning%20new%20things;A.I%20DEVELOPER%20&font=Fira%20Code&center=true&width=500&height=45&color=9400D3&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://t.me/videoderXT">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Join%20our%20Telegram%20community;For%20updates%20and%20support;Engage%20with%20other%20developers;Get%20latest%20tech%20news%20and%20tips&font=Fira%20Code&center=true&width=500&height=45&color=1E90FF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="center">
 𝗬𝗼𝘂𝗿 𝗖𝗼𝗱𝗶𝗻𝗴 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝗿 𝗬𝗮𝘀𝗵𝗱𝗲𝗲𝗽𝘀𝗵𝗮𝗿𝗺𝗮𝟮...😒
@@ -41,6 +43,9 @@
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashdeepsharma2&theme=default" align="center">
 </p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yashdeepsharma2&theme=default" align="center">
+</p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
   
@@ -59,5 +64,3 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Yashdeepsharma2&theme=radical&no-frame=false&no-bg=false&margin-w=4" </p>
 
 <h3 align="center">🆃︎🅷︎🅰︎🅽︎🅺︎ 🆈︎🅾︎🆄︎..❗ 🆅︎🅸︎🆂︎🅸︎🆃︎🅸︎🅽︎🅶︎ 🅼︎🆈︎ 🅶︎🅸︎🆃︎🅷︎🆄︎🅱︎ 🅿︎🆁︎🅾︎🅵︎🅸︎🅻︎🅴︎</h3>
-
-----------------------------------------------------------------------------------------------------------------------------------------------
