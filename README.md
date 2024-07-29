@@ -13,13 +13,13 @@
 <p align="center">
 <img src="https://profile-counter.glitch.me/{Yashdeepsharma2}/count.svg" <p align="center"> </p>
 <h1 align="center">
-<a href="https://www.buymeacoffee.com/Yashdeepsharma2Botz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/yashdeepsharma2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <h3 align="center">🙏 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 ❤️</h3>
 </p>
 <p align="center">
-<a href="https://www.instagram.com/the_black_xyz?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.dog/Yashdeepsharma2Botz"><img alt="Telegram" src="https://img.shields.io/badge/Yashdeepsharma2Botz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
-<a href="https://youtube.com/@Yashdeepsharma2?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://t.me/videoderXT"><img alt="Telegram" src="https://img.shields.io/badge/videoderXT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
+<a href="https://youtube.com/@viddertech"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
