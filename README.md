@@ -24,7 +24,9 @@
   <a href="https://youtube.com/@viddertech"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://t.me/videoderXT"><img alt="Telegram" src="https://img.shields.io/badge/videoderXT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
-<hr>
+
+---
+
 <h3 align="center">💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••🇮🇳</h3>
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api/?username=Yashdeepsharma2&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
@@ -53,7 +55,9 @@
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Yashdeepsharma2&theme=react-dark" align="center">
 </p>
-<hr>
+
+---
+
 <h3 align="center">🫣 𝗔 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗙𝗮𝘀𝗰𝗶𝗻𝗮𝘁𝗶𝗻𝗴 😎😎 From India</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
